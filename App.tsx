@@ -148,7 +148,7 @@ const App: React.FC = () => {
         <div className="flex justify-between items-start">
           <div>
             <h1 className="text-4xl font-light tracking-tighter text-stone-200">
-              GEOSPATIAL <span className="font-bold text-amber-500">SONIFIER</span>
+              WIKI <span className="font-bold text-amber-500">PHONIC</span>
             </h1>
             <p className="text-stone-400 max-w-xl text-sm mt-1 font-light">
               Listen to landmarks and the journey between them in the latent space.
