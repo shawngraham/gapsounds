@@ -1,6 +1,6 @@
 {
-  "name": "Geospatial Sonifier",
-  "description": "A semantic music generator that transforms the distance between two geographical landmarks into a four-voice orchestral composition using on-device Sentence Transformers and Wikipedia data.",
+  "name": "Wikiphonic",
+  "description": "A semantic music generator that transforms the distance between two geographical landmarks' wikipedia articles into a four-voice orchestral composition using on-device Sentence Transformers and Wikipedia data.",
   "requestFramePermissions": [
     "geolocation"
   ]
